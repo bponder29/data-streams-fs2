@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="095eeb7c-6b38-4654-8375-16711cc15c9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V7YITgEHsuYqQe935qCer12g8r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testdata" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/testdata/testdata" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="data-stream-fs2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="data-stream-fs2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="data-stream-fs2 [file:/home/bponder/Projects/data-stream-fs2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="data-stream-fs2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="23648828" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="882899147" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../article-link-recommender" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bean-splitter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gcs-akka-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../jsonapi-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lookergen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../offline-conversions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../setl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-doc-sim" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tributary" value="PREVIEW" />
+        <entry key="$USER_HOME$/coursera/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="095eeb7c-6b38-4654-8375-16711cc15c9f" name="Default Changelist" comment="" />
+      <created>1576605520910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576605520910</updated>
+      <workItem from="1576605527165" duration="6049000" />
+      <workItem from="1576778974389" duration="8104000" />
+      <workItem from="1577734050554" duration="7685000" />
+      <workItem from="1577810088015" duration="13000" />
+      <workItem from="1578003653851" duration="6834000" />
+      <workItem from="1578068408756" duration="15745000" />
+      <workItem from="1578426359408" duration="16000" />
+      <workItem from="1578502428289" duration="672000" />
+      <workItem from="1578504040340" duration="1208000" />
+      <workItem from="1578588237570" duration="31080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="192" width="800" height="677" key="#Project_Structure" timestamp="1576609641472">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="555" y="192" width="800" height="677" key="#Project_Structure/0.27.1920.1008@0.27.1920.1008" timestamp="1576609641472" />
+    <state x="693" y="289" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579040840820">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="693" y="289" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1579040840820" />
+    <state x="1242" y="383" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.3440.1368@0.27.3440.1368" timestamp="1578504528718" />
+    <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578096792316">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1578096792316" />
+    <state x="643" y="259" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577734029198">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="643" y="259" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1577734029198" />
+    <state x="713" y="390" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579035877631">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="713" y="390" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1008@0.27.1920.1008" timestamp="1579035877631" />
+    <state x="100" y="70" width="1720" height="910" key="DiffContextDialog.inPresentationMode" timestamp="1579032552246">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="100" y="70" width="1720" height="910" key="DiffContextDialog.inPresentationMode/0.27.1920.1008@0.27.1920.1008" timestamp="1579032552246" />
+    <state width="1633" height="263" key="GridCell.Tab.0.bottom" timestamp="1579019825963">
+      <screen x="0" y="27" width="3440" height="1368" />
+    </state>
+    <state width="1633" height="263" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1578950923468" />
+    <state width="1633" height="263" key="GridCell.Tab.0.bottom/0.27.3440.1368@0.27.3440.1368" timestamp="1579019825963" />
+    <state width="1633" height="263" key="GridCell.Tab.0.center" timestamp="1579019825962">
+      <screen x="0" y="27" width="3440" height="1368" />
+    </state>
+    <state width="1633" height="263" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1578950923466" />
+    <state width="1633" height="263" key="GridCell.Tab.0.center/0.27.3440.1368@0.27.3440.1368" timestamp="1579019825962" />
+    <state width="1633" height="263" key="GridCell.Tab.0.left" timestamp="1579019825962">
+      <screen x="0" y="27" width="3440" height="1368" />
+    </state>
+    <state width="1633" height="263" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1578950923465" />
+    <state width="1633" height="263" key="GridCell.Tab.0.left/0.27.3440.1368@0.27.3440.1368" timestamp="1579019825962" />
+    <state width="1633" height="263" key="GridCell.Tab.0.right" timestamp="1579019825963">
+      <screen x="0" y="27" width="3440" height="1368" />
+    </state>
+    <state width="1633" height="263" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1578950923467" />
+    <state width="1633" height="263" key="GridCell.Tab.0.right/0.27.3440.1368@0.27.3440.1368" timestamp="1579019825963" />
+    <state x="179" y="163" width="3082" height="1097" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578504529277">
+      <screen x="0" y="27" width="3440" height="1368" />
+    </state>
+    <state x="100" y="127" width="1720" height="808" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1578425792784" />
+    <state x="179" y="163" width="3082" height="1097" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.3440.1368@0.27.3440.1368" timestamp="1578504529277" />
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1577808959341">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="453" y="25" width="1009" height="1470" key="search.everywhere.popup.inPresentationMode" timestamp="1579039442788">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="453" y="25" width="1009" height="1470" key="search.everywhere.popup.inPresentationMode/0.27.1920.1008@0.27.1920.1008" timestamp="1579039442788" />
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1577808959341" />
+  </component>
+</project>
